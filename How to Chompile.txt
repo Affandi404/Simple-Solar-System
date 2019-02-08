@@ -1,0 +1,5 @@
+chompile with Msys
+1. open directory file
+2. manual chompile using
+	g++ rotasi.c -o rotasi.exe -mwindows -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+3. or you can chompile this file with make file. remember, rotasi.c is name file and rotasi.exe is output file name
