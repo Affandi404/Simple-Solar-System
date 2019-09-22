@@ -1,6 +1,4 @@
 /*Mencoba membuat rotasi pelanet
-Nama : Budi Setiawan
-Nim : G1BO17009
 
 */
 #include <stdio.h>
